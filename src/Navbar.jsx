@@ -12,6 +12,7 @@ const Navbar = ({text}) => {
                   <a href="#">drm 1</a>
                   <a href="#">drm 2</a>
                   <a href="#">drm 3</a>
+                  <a href="#"></a>
                   </div>
                   </div></li>
                 <li><a href='#'>Contact</a></li>
@@ -27,6 +28,7 @@ const Navbar = ({text}) => {
                   <a href="#">Profile</a>
                   <a href="#">Projects</a>
                   <a href="#">Extra</a>
+                  <a href="#"></a>
                   </div>    
                   </div>             
             </div>
